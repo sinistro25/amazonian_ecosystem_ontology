@@ -49,9 +49,8 @@ At the end we spent time verifying the consistency and the veracity of the data.
 
 |                  | Specification                                |
 | ---------------- | -------------------------------------------- |
-| **Description:** | There have been many bio-ontologies proposed |
-Like the Wildlife Ontology and the Animal trait ontology.
-But there was no ontology that focused on the Amazonian Ecosystem
+| **Description:** | There have been many bio-ontologies proposed Like the Wildlife Ontology and the Animal trait ontology.But there was no ontology that focused on the Amazonian Ecosystem|
+
                                                                                                        |
 
 ----
@@ -121,9 +120,7 @@ The general public that is interested in knowing and understanding the richness 
 |                  | Specification                                                      |
 | ---------------- | ------------------------------------------------------------------ |
 | **Description:** | The ontology has been checked to be consistent using Hermit 1.4.3. |
-Examples of inferences:
-Carnivore,
-Apex Predator, EndangereSpecies
+Examples of inferences:Carnivore,Apex Predator, EndangereSpecies
  |
 
 ----
