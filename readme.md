@@ -108,9 +108,7 @@ The general public that is interested in knowing and understanding the richness 
 
 |                  | Specification                                  |
 | ---------------- | ---------------------------------------------- |
-| **Description:** | hasPrey: Describes if a predator has some prey |
-  eatsofPlant: Describes if an animal eats a kind a plant
-  pollinates: If an animal pollinates a plant|
+| **Description:** | hasPrey: Describes if a predator has some prey, eatsofPlant: Describes if an animal eats a kind a plant, pollinates: If an animal pollinates a plant |
 ----
 
 ## G. Quality Assurance
